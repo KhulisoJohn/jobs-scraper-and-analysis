@@ -1,5 +1,8 @@
 # Python Job Listings Scraper
 
+
+This is my solution to the [Python Job Listings Scraper](https://github.com/KhulisoJohn/jobs-scraper-and-analysis) project.
+
 A beginner-friendly web scraper that collects job listings from the [Fake Python Jobs](https://realpython.github.io/fake-jobs/) practice site, saves them to CSV, and uses pandas to answer questions about the data with tables and charts.
 
 The target site is built for learning, so it is safe to scrape and has no anti-bot protection. The data is fake, so the findings below are for practice.
