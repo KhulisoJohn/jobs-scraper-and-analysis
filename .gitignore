@@ -1,0 +1,8 @@
+venv/
+.venv/
+__pycache__/
+*.pyc
+.DS_Store
+
+# Regenerated every time explore_jobs.py runs
+jobs_clean.csv
