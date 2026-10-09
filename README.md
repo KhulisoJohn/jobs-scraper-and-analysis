@@ -80,8 +80,8 @@ Python | Requests | Beautiful Soup | pandas | matplotlib | Jupyter in VS Code
 ## Installation
 
 ```bash
-git clone https://github.com/<your-username>/<repo-name>.git
-cd <repo-name>
+git clone https://github.com/KhulisoJohn/jobs-scraper-and-analysis.git
+cd <jobs-scraper-and-analysis>
 
 python3 -m venv venv
 source venv/bin/activate          # Windows: venv\Scripts\activate
